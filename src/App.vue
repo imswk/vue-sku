@@ -31,6 +31,11 @@ let specification = [
 let skus = [
   {
     color: '白色',
+    rule: '120',
+    size: '中'
+  },
+  {
+    color: '白色',
     rule: '110',
     size: '小'
   },
@@ -48,11 +53,6 @@ let skus = [
     color: '黑色',
     rule: '130',
     size: '大'
-  },
-  {
-    color: '白色',
-    rule: '120',
-    size: '中'
   },
   {
     color: '红色',
