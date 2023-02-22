@@ -2,7 +2,7 @@
   "name": "vue-sku",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
+  "homepage": "https://imswk.github.io/vue-sku",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc && vite build",
